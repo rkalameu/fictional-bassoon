@@ -2,7 +2,7 @@
 import random
 
 print('---------------------------------')
-print('Welcome to Rock, Paper, Scissors!')
+print('**Welcome to Rock, Paper, Scissors!**')
 print('---------------------------------')
 
 print('1) is for (Rock)')
